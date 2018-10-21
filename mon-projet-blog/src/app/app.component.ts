@@ -29,7 +29,7 @@ export class AppComponent {
     },
 
     {
-      title: 'Encore un post',
+      title: 'Mon troisième post',
       // tslint:disable-next-line:max-line-length
       content: 'Mettez vos lunettes, et dites-moi que nous sommes pollués et malades. Dix-sept ans : sa première épreuve était perdue, elle aurait passé une éponge humide et méphitique. Jouir de soi-même dans sa pensée ? Revenant aux affaires après vingt-cinq ans d\'habitude professionnelle arrondissaient sur ses tempes, elle parla plus clairement. Venant pour voir si nous pouvons reprendre ce poste, on trouvait en lui l\'oriental qui voulait être sans doute ainsi...',
       loveIts: 0,
